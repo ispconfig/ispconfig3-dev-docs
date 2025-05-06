@@ -12,11 +12,11 @@ This project contains documentation and guides for developing and extending ISPC
 
 ## Getting Started
 1. Clone this repository or download the documentation set.
-2. Start with `index.md` for an overview and navigation links.
-3. For contributing, see `CONTRIBUTING.md`.
+2. Start with [index.md](index.md) for an overview and navigation links.
+3. For contributing, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## About ISPConfig
-ISPConfig manages web, mail, DNS, and database services, and is built on PHP, Bash, MariaDB/MySQL, Apache/Nginx, Postfix, Dovecot, and more. See `index.md` for details.
+ISPConfig manages web, mail, DNS, and database services, and is built on PHP, Bash, MariaDB/MySQL, Apache/Nginx, Postfix, Dovecot, and more. See [index.md](index.md) for details.
 
 ---
 
