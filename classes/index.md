@@ -1,0 +1,91 @@
+# ISPConfig Classes Documentation Index
+
+This section documents all PHP classes found in `interface/lib/classes/` of ISPConfig (beta-3-3-fixes branch). For each class, you will find:
+- A brief description
+- A list of all available functions/methods and their purpose
+
+## Classes List
+
+### Documented Classes
+- [ApsBase](./ApsBase.md)
+- [ApsCrawler](./ApsCrawler.md)
+- [ApsGUIController](./ApsGUIController.md)
+- [auth](./auth.md)
+- [client_templates](./client_templates.md)
+- [crypt](./crypt.md)
+- [custom_datasource](./custom_datasource.md)
+- [db_mysql](./db_mysql.md)
+- [dns_wizard](./dns_wizard.md)
+- [extension_installer](./extension_installer.md)
+- [FineDiff](./FineDiff.md)
+- [functions](./functions.md)
+- [getconf](./getconf.md)
+- [ids](./ids.md)
+- [importer](./importer.md)
+- [ini_parser](./ini_parser.md)
+- [ispcmail](./ispcmail.md)
+- [ISPConfigJSONHandler](./json_handler.md)
+- [ISPConfigRemotingHandlerBase](./ISPConfigRemotingHandlerBase.md)
+- [ISPConfigRESTHandler](./ISPConfigRESTHandler.md)
+- [ISPConfigRequest](./ISPConfigRequest.md)
+- [listform](./listform.md)
+- [listform_actions](./listform_actions.md)
+- [listform_tpl_generator](./listform_tpl_generator.md)
+- [message](./message.md)
+- [plugin](./plugin.md)
+- [plugin_backuplist](./plugin_backuplist.md)
+- [plugin_backuplist_mail](./plugin_backuplist_mail.md)
+- [plugin_base](./plugin_base.md)
+- [plugin_dbhistory](./plugin_dbhistory.md)
+- [plugin_directive_snippets](./plugin_directive_snippets.md)
+- [plugin_listview](./plugin_listview.md)
+- [plugin_system_config_dns_ca](./plugin_system_config_dns_ca.md)
+- [plugin_system_config_dns_ca_list](./plugin_system_config_dns_ca_list.md)
+- [quota_lib](./quota_lib.md)
+- [remoting](./remoting.md)
+- [remoting_handler_base](./remoting_handler_base.md)
+- [remoting_lib](./remoting_lib.md)
+- [rest_handler](./rest_handler.md)
+- [session](./session.md)
+- [simplepie](./simplepie.md)
+- [sites_database_plugin](./sites_database_plugin.md)
+- [soap_handler](./soap_handler.md)
+- [system](./system.md)
+- [tform](./tform.md)
+- [tform_actions](./tform_actions.md)
+- [tform_base](./tform_base.md)
+- [tform_tpl_generator](./tform_tpl_generator.md)
+- [tools_monitor](./tools_monitor.md)
+- [tools_sites](./tools_sites.md)
+- [tpl](./tpl.md)
+- [tpl_cache](./tpl_cache.md)
+- [tpl_error](./tpl_error.md)
+- [tpl_ini](./tpl_ini.md)
+- [tree](./tree.md)
+- [validate_autoresponder](./validate_autoresponder.md)
+- [validate_client](./validate_client.md)
+- [validate_cron](./validate_cron.md)
+- [validate_database](./validate_database.md)
+- [validate_datetime](./validate_datetime.md)
+- [validate_dkim](./validate_dkim.md)
+- [validate_dns](./validate_dns.md)
+- [validate_domain](./validate_domain.md)
+- [validate_ftpuser](./validate_ftpuser.md)
+- [validate_mail_relay_domain](./validate_mail_relay_domain.md)
+- [validate_mail_transport](./validate_mail_transport.md)
+- [validate_openvz](./validate_openvz.md)
+- [validate_password](./validate_password.md)
+- [validate_remote_user](./validate_remote_user.md)
+- [validate_reseller](./validate_reseller.md)
+- [validate_server](./validate_server.md)
+- [validate_server_directive_snippets](./validate_server_directive_snippets.md)
+- [validate_server_mail_config](./validate_server_mail_config.md)
+- [validate_systemuser](./validate_systemuser.md)
+
+### Classes Not Yet Documented
+
+*All classes in `interface/lib/classes/` are now documented!*
+
+---
+
+For each class, see the corresponding subpage for details.
