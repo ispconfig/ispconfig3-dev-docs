@@ -32,12 +32,14 @@ This documentation set provides detailed developer guides for the ISPConfig code
 - **Folder Structure**: Guide to the directory structure of ISPConfig. (See [Folder Structure](folder-structure.md))
 - **Class Reference**: Complete API documentation for core classes (`interface/lib/classes`), explaining methods, properties, and usage examples. (See [Classes Reference](classes/index.md))
 - **tform System**: Guide to the dynamic form framework, including field types, filters, validators, datasources, and template logic. (See [tform System](tform/index.md))
+- **Database Reference**: Documentation for the ISPConfig database schema and usage. (See [Database](database.md))
 - **Template Engine**: Reference for the vlibTemplate system used by ISPConfig to render HTML templates with loops, conditionals, and includes. (See [Template Engine](tform/template-logic.md))
 
 ## Sub-Indicies
 - [Classes Reference](classes/index.md)
 - [Form (tform) Documentation](tform/index.md)
 - [Folder Structure](folder-structure.md)
+- [Database](database.md)
 - [Template Engine](tform/template-logic.md)
 
 Use these links to navigate to the specific areas of the codebase you need to understand or extend. For contributions, see the README and CONTRIBUTING files in the project root.
